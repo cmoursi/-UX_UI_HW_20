@@ -1,1 +1,15 @@
+.col h1{
+    padding:24px;
+}
 
+.col img {
+padding: 24px;
+}
+
+.nav li a {
+    color: black;
+}
+
+.nav-item {
+    padding-left: 24px;
+}
